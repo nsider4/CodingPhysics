@@ -1,6 +1,6 @@
-# PhysicsInCode
+# CodingPhysics
 
-Welcome to **PhysicsInCode**! This repository is a personal journey into understanding physics through code. As I learn new concepts, I'll be applying them by building Java algorithms to simulate, solve, and visualize physics principles. Each program aims to answer questions or calculate outcomes related to the concept, combining theoretical learning with practical programming.
+Welcome to **CodingPhysics**! This repository is a personal journey into understanding physics through code. As I learn new concepts, I'll be applying them by building Java algorithms to simulate, solve, and visualize physics principles. Each program aims to answer questions or calculate outcomes related to the concept, combining theoretical learning with practical programming.
 
 ## 🎯 Goals
 
