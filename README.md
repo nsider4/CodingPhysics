@@ -26,4 +26,4 @@ To run any of the programs, you’ll need:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/PhysicsInCode.git
+   git clone https://github.com/nsider4/PhysicsInCode.git
