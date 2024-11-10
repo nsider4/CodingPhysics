@@ -12,9 +12,7 @@ Welcome to **CodingPhysics**! This repository is a personal journey into underst
 
 | Concept        | Java Implementation             | Description                                          |
 | -------------- | --------------------------------| ---------------------------------------------------- |
-| Mechanics      | [Mechanics Folder](src/Mechanics)      | Basic equations of motion and velocity calculations.   |
-| Thermodynamics | [Thermodynamics Folder](src/Thermodynamics) | Calculating heat transfer using specific heat capacity. |
-| Electromagnetism | [Electromagnetism Folder](src/Electromagnetism) | Simulating magnetic fields and forces.                |
+| Geometry      | [Geometry Folder](src/Mechanics)      | Foundation of mathematics through points, lines, angles, surfaces, and solids..   |
 
 *New topics and concepts will be added regularly as I progress through my physics journey!*
 
