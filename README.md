@@ -12,18 +12,16 @@ Welcome to **CodingPhysics**! This repository is a personal journey into underst
 
 | Concept        | Java Implementation             | Description                                          |
 | -------------- | --------------------------------| ---------------------------------------------------- |
-| Mechanics      | [Mechanics Folder](src/Mechanics)      | Basic equations of motion and velocity calculations.   |
-| Thermodynamics | [Thermodynamics Folder](src/Thermodynamics) | Calculating heat transfer using specific heat capacity. |
-| Electromagnetism | [Electromagnetism Folder](src/Electromagnetism) | Simulating magnetic fields and forces.                |
+| Geometry      | [Geometry Folder](CodingPhysics/Geometry)      | Foundations of math through points, lines, angles, surfaces, etc   |
 
 *New topics and concepts will be added regularly as I progress through my physics journey!*
 
 ## 🚀 Getting Started
 
 To run any of the programs, you’ll need:
-- **Java JDK 11** or higher.
+- **Java JDK 17** or higher.
 - A Java IDE or command line for running the Java files.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/nsider4/PhysicsInCode.git
+   git clone https://github.com/nsider4/CodingPhysics.git
