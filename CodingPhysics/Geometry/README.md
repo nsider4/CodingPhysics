@@ -30,7 +30,11 @@ The project is built in Java and uses graphical tools to enhance the user experi
    A graphical user interface using JavaFX that visualizes the Pythagorean Theorem.  
    For more details, visit the [Pythagorean Theorem Visual module](https://github.com/nsider4/CodingPhysics/tree/main/CodingPhysics/Geometry/PythagoreanTheoremVisual).
 
-3. **Rotation Of Points**  
+3. **Translation Of Points**  
+   A simple geometric program that calculates and performs translations.  
+   For more details, visit the [Translation Of Points module](https://github.com/nsider4/CodingPhysics/tree/main/CodingPhysics/Geometry/TranslationOfPoints).
+
+4. **Rotation Of Points**  
    A module that calculates everything that encompasses the rotation of points.  
    For more details, visit the [Rotation Of Points module](https://github.com/nsider4/CodingPhysics/tree/main/CodingPhysics/Geometry/RotationOfPoints).
 
