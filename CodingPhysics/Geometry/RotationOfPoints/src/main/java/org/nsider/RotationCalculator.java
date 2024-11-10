@@ -18,20 +18,11 @@ public class RotationCalculator {
             int choice = scanner.nextInt();
 
             switch (choice) {
-                case 1:
-                    operations.findAngleOfRotation(scanner);
-                    break;
-                case 2:
-                    operations.findPerpendicularBisector(scanner);
-                    break;
-                case 3:
-                    operations.rotatePoint(scanner);
-                    break;
-                case 4:
-                    exit = true;
-                    break;
-                default:
-                    System.out.println("\nInvalid option. Please try again.");
+                case 1 -> operations.findAngleOfRotation(scanner);
+                case 2 -> operations.findPerpendicularBisector(scanner);
+                case 3 -> operations.rotatePoint(scanner);
+                case 4 -> exit = true;
+                default -> System.out.println("\nInvalid option. Please try again.");
             }
         }
         scanner.close();
