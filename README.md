@@ -19,7 +19,7 @@ Welcome to **CodingPhysics**! This repository is a personal journey into underst
 ## 🚀 Getting Started
 
 To run any of the programs, you’ll need:
-- **Java JDK 11** or higher.
+- **Java JDK 17** or higher.
 - A Java IDE or command line for running the Java files.
 
 1. Clone this repository:
