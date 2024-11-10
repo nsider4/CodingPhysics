@@ -12,7 +12,7 @@ Welcome to **CodingPhysics**! This repository is a personal journey into underst
 
 | Concept        | Java Implementation             | Description                                          |
 | -------------- | --------------------------------| ---------------------------------------------------- |
-| Geometry      | [Geometry Folder](src/Mechanics)      | Foundations of math through points, lines, angles, surfaces, etc   |
+| Geometry      | [Geometry Folder](CodingPhysics/Geometry)      | Foundations of math through points, lines, angles, surfaces, etc   |
 
 *New topics and concepts will be added regularly as I progress through my physics journey!*
 
