@@ -10,7 +10,7 @@ Welcome to **CodingPhysics**! This repository is a personal journey into underst
 
 ## 📚 Current Topics Covered
 
-| Concept        | Java Implementation             | Description                                          |
+| Concept        | Implementation             | Description                                          |
 | -------------- | --------------------------------| ---------------------------------------------------- |
 | Geometry      | [Geometry Folder](CodingPhysics/Geometry)      | Foundations of math through points, lines, angles, surfaces, etc   |
 
